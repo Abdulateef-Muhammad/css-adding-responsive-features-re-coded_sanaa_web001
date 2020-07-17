@@ -69,6 +69,14 @@
     display: inline-block;
   }
   
+  #social {
+    width: auto;
+  }
+  
+  #social a {
+    display: inline-block;
+  }
+  
 }
 
 
